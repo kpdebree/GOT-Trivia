@@ -1,4 +1,4 @@
-# Week 5 Game
+# Game of Thrones Trivia
 
 Start the Game using the start click and answers the questions to the game.
 
